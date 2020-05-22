@@ -1,0 +1,10 @@
+﻿ContactName,InvoiceNumber,Reference,InvoiceDate,DueDate,Description,Quantity,UnitAmount,AccountCode,TaxType,TrackingName1,TrackingOption1,TrackingName2,TrackingOption2
+102 Main Highway Limited,20180531-1494,1494,5/31/2018,6/19/2018,Answer Service,1,260,160000,15% GST on Income,Business,Osteopaths,Scheme,260/150/1.70
+102 Main Highway Limited,20180531-1494,1494,5/31/2018,6/19/2018,Calls - Additional,0,1.7,160002,15% GST on Income,Business,Osteopaths,Scheme,260/150/1.70
+102 Main Highway Limited,20180531-1494,1494,5/31/2018,6/19/2018,Toll Calls,0,0.42,160004,15% GST on Income,Business,Osteopaths,Scheme,260/150/1.70
+102 Main Highway Limited,20180531-1494,1494,5/31/2018,6/19/2018,Txt Msgs,3,0.2,160006,15% GST on Income,Business,Osteopaths,Scheme,260/150/1.70
+Aaron Smith Commercial,20180531-1259,1259,5/31/2018,6/19/2018,Answer Service,1,130,160002,15% GST on Income,Business,Real Estate Agent,Scheme,1.45
+Aaron Smith Commercial,20180531-1259,1259,5/31/2018,6/19/2018,Calls - Additional,10,1.8,160002,15% GST on Income,Business,Real Estate Agent,Scheme,1.45
+Adjust NZ,20180531-1450,1450,5/31/2018,6/19/2018,Answer Service,0.5,130,160000,15% GST on Income,Business,Insurance Loss Adjustors/Assessors,Scheme,130/65/170
+Adjust NZ,20180531-1450,1450,5/31/2018,6/19/2018,Toll Calls,1,0.42,160004,15% GST on Income,Business,Insurance Loss Adjustors/Assessors,Scheme,130/65/170
+Adjust NZ,20180531-1450,1450,5/31/2018,6/19/2018,Txt Msgs,5,0.2,160006,15% GST on Income,Business,Insurance Loss Adjustors/Assessors,Scheme,130/65/170
